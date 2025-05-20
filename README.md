@@ -1,7 +1,6 @@
 # 📜 Теорема Минковского о выпуклых многогранниках и её приложение к задаче Ньютона
 
-[![PDF Download](https://img.shields.io/badge/PDF-Download-%23B30B00?logo=adobeacrobatreader)](https://github.com/bequinG0/minkowski-theorem/raw/main/paper.pdf)
-[![DOI](https://img.shields.io/badge/DOI-10.XXXXX.XXXXXX-blue)](https://doi.org/10.XXXXX.XXXXXX)
+[![PDF Download](https://img.shields.io/badge/PDF-Download-%23B30B00?logo=adobeacrobatreader)]([https://github.com/bequinG0/minkowski-theorem/raw/main/paper.pdf](https://github.com/bequinG0/Newton-s-surface-of-least-resistance-problem/blob/main/Newton's%20surface%20of%20least%20resistance%20problem.pdf))
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 **Научная статья**, опубликованная в сборнике: Четвёртая межрегиональная научно-практическая конференция
